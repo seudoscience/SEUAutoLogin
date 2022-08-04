@@ -7,6 +7,7 @@
 - 🌡**自动每日健康上报** [![daily report](https://github.com/luzy99/SEUAutoLogin/actions/workflows/daily-report.yml/badge.svg)](https://github.com/luzy99/SEUAutoLogin/actions/workflows/daily-report.yml)
 - 💯**绩点计算**
 
+
 ## 更新日志
 
 **2022-06-26：重大bug，已适配信息门户新登录逻辑，请使用老版本的用户迅速更新至此版本，否作无法正常登录打卡！！！**
